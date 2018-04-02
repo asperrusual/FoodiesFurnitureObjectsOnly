@@ -1,0 +1,10 @@
+{
+  "author" : "AsPerrUsual",
+  "description" : "Exactly what it says on the tin.",
+  "friendlyName" : "Foodie's Furniture - Objects Only!",
+  "includes" : ["TabulaRasa","manyFrogs"],
+  "link" : "",
+  "name" : "Foodie's Furniture Objects Only",
+  "tags" : "Furniture And Objects",
+  "version" : "1.0"
+}
